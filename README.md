@@ -8,9 +8,7 @@
   <a href="https://github.com/Igorryan44">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <i align="center">
-    <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-bcf0-6230-b344-cd390186f2d7/raw?se=2025-07-29T15%3A12%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=ae00e20c-a485-5b50-8c65-343aae129182&skoid=ea1de0bc-0467-43d6-873a-9a5cf0a9f835&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-28T19%3A09%3A44Z&ske=2025-07-29T19%3A09%3A44Z&sks=b&skv=2024-08-04&sig=xhogSaYDnrw1DXW7NSYH/Ti3fx2IIoZ5idkBQHmd2m0%3D" width="20" />
-  <i/>
+
   <a href="https://instagram.com/_igor.ryan_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
