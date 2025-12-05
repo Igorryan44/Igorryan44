@@ -46,9 +46,4 @@ Tenho trabalhado com:
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-
-
-### 📌 Filosofia pessoal
-
-> “Não é sobre saber tudo, é sobre não parar de aprender.”  
-> <sub>— Igor Alves</sub>
+---
