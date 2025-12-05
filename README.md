@@ -8,7 +8,6 @@
   <a href="https://github.com/Igorryan44">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://instagram.com/_igor.ryan_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -27,8 +26,8 @@ Experiência em automação e manipulação de arquivos sigilosos, tratamento e 
 Tenho trabalhado com:
 
 - 🔍 Automação de tarefas repetitivas e fluxos de trabalho com **Python e Power Automate**
-- 📊 Análise de dados com foco em clareza e tomada de decisão, usando **Pandas**, **Power BI** e **Excel**
-- 🔗 Integração entre sistemas, APIs e ferramentas do dia a dia com **FastAPI**, **Langchain**, **Streamlit**
+- 📊 Processamento e Análise de dados com foco em clareza e tomada de decisão usando **Polars**, **Pandas**, **Power BI/Fabric** e **Excel**
+- 🔗 Integração entre sistemas, APIs e ferramentas de IA **FastAPI**, **Langchain**, **Streamlit**
 
 ---
 
@@ -42,6 +41,7 @@ Tenho trabalhado com:
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-FFFFFF?style=for-the-badge&logo=polars&logoColor=09D6E0"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
