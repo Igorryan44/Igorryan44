@@ -52,9 +52,3 @@ Tenho trabalhado com:
 
 > “Não é sobre saber tudo, é sobre não parar de aprender.”  
 > <sub>— Igor Alves</sub>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats"/>
-</p>
