@@ -30,7 +30,7 @@
       <td valign="top" width="50%">
         <h3>👨‍💻 About Me</h3>
         <p>
-          I am a developer focused on <b>Back-end</b> and <b>Data Science</b>. I enjoy building efficient systems and extracting insights from data using Python.
+          I am a developer focused on <b>Back-end</b> and <b>Data Engineering</b>. I enjoy building efficient systems and extracting insights from data using Python.
         </p>
         <ul>
           <li>🌱 I’m currently learning <b>Java</b> and <b>Data Engineering</b>.</li>
