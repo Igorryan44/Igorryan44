@@ -30,12 +30,12 @@
       <td valign="top" width="50%">
         <h3>👨‍💻 About Me</h3>
         <p>
-          I am a developer focused on <b>Back-end</b> and <b>Data Engineering</b>. I enjoy building efficient systems and extracting insights from data using Python.
+          I am a developer focused on <b>Back-end</b> and <b>Automation</b>. Focusing on optimization and safe and intelligent APIs building with logical performance.
         </p>
         <ul>
-          <li>🌱 I’m currently learning <b>Java</b> and <b>Data Engineering</b>.</li>
+          <li>🌱 I’m currently learning <b>Java</b> and <b>Back-end</b>.</li>
           <li>🔭 Working on Python projects with <b>Docker</b>.</li>
-          <li>📊 Analyzing data with <b>Pandas</b> and <b>Polars</b>.</li>
+          <li>🤖 Automate scripts with <b>Python</b>.</li>
         </ul>
       </td>
       <td valign="top" width="100%">
@@ -79,8 +79,8 @@
 
 <div align="center">
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorryan44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorryan44&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
 </div>
 
 
