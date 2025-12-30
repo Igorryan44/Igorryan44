@@ -34,47 +34,42 @@
         </p>
         <ul>
           <li>🌱 I’m currently learning <b>Java</b> and <b>Back-end</b>.</li>
-          <li>🔭 Working on Python projects with <b>Docker</b>.</li>
+          <li>🔭 Working on Java projects with <b>Spring</b>.</li>
           <li>🤖 Automate scripts with <b>Python</b>.</li>
         </ul>
       </td>
       <td valign="top" width="100%">
         <h3>🛠️ Tech Stack</h3>
+          <a href="https://www.java.com/pt-BR/">
+            <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=openjdk&logoColor=black"/>  
+          <a/>
+          <a href="https://spring.io/projects/spring-boot">
+            <img src="https://img.shields.io/badge/Spring-228B22?style=flat-square&logo=springboot&logoColor=white"/>
+          <a/>
+        <br/>
+          <a href="https://www.pgadmin.org/">
+            <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>
+          <a/>
+          <a href="https://git-scm.com/">
+            <img src="https://img.shields.io/badge/Git-ff8300?style=flat-square&logo=git&logoColor=black"/>
+          <a/>
+        <br/>
+          <a href="https://app.insomnia.rest/">
+            <img src="https://img.shields.io/badge/insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white"/>
+          <a/>
+          <a href="https://aws.amazon.com/">  
+            <img src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=flat-square&logo=AWS&logoColor=white"/>
+        <br/>  
           <a href="https://www.python.org/doc/">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <a/>
-          <a href="https://fastapi.tiangolo.com/">
-            <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-          <a/>
-        <br/>
-          <a href="https://pandas.pydata.org/">
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-          <a/>
-          <a href="https://pola.rs">
-            <img src="https://img.shields.io/badge/Polars-FFFFFF?style=flat-square&logo=polars&logoColor=09D6E0"/>
+            <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
           <a/>  
-        <br/>
-          <a href="https://streamlit.io/">  
-            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-          <a/>
-          <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-<div align="center">
-  <h3>📚 Learning...</h3>
-    <a href="https://www.java.com/pt-BR/">
-      <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=openjdk&logoColor=white"/>  
-    <a/>
-    <a href="https://spring.io/projects/spring-boot">
-      <img src="https://img.shields.io/badge/Spring-228B22?style=flat-square&logo=springboot&logoColor=white"/>
-    <a/>
-<div/>
-  
 ---
 
 <div align="center">
