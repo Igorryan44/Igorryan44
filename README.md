@@ -79,8 +79,7 @@
 
 <div align="center">
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorryan44&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sand-eta.vercel.app?user=Igorryan44&theme=java-dark" alt="GitHub Streak" /></a>
 </div>
 
 
