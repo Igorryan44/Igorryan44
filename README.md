@@ -74,7 +74,7 @@
 
 <div align="center">
   <h3>🔥 My Stats</h3>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-n0lzkjlvf.vercel.app?user=Igorryan44&theme=java-dark" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-sta-git-570ef1-igorryans-projects-ed78a03d.vercel.app?user=Igorryan44&theme=java-dark" alt="GitHub Streak" /></a>
 </div>
 
 
