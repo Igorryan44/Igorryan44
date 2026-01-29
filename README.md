@@ -73,8 +73,23 @@
 ---
 
 <div align="center">
+  <td>
   <h3>🔥 My Stats</h3>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-sta-git-570ef1-igorryans-projects-ed78a03d.vercel.app?user=Igorryan44&theme=java-dark" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-amber.vercel.app?user=Igorryan44&theme=dark" alt="GitHub Streak" /></a>
+  </td>
+  <td>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true" />
+    </picture>
+  </td>
 </div>
 
 
