@@ -75,7 +75,6 @@
 <div align="center">
   <td>
   <h3>🔥 My Stats</h3>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-amber.vercel.app?user=Igorryan44&theme=dark" alt="GitHub Streak" /></a>
   </td>
   <td>
     <picture>
