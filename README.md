@@ -9,7 +9,7 @@
   <a href="https://github.com/Igorryan44">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/_igor.ryan_">
+  <a href="https://instagram.com/igorr.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:igorryanmendesalves@gmail.com">
