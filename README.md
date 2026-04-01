@@ -69,31 +69,3 @@
     </tr>
   </table>
 </div>
-
----
-
-<div align="center">
-  <td>
-  <h3>🔥 My Stats</h3>
-  </td>
-  <td>
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=Igorryan44&show_icons=true" />
-    </picture>
-  </td>
-</div>
-
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Igorryan44&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
