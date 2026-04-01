@@ -54,8 +54,8 @@
             <img src="https://img.shields.io/badge/Git-ff8300?style=flat-square&logo=git&logoColor=black"/>
           <a/>
         <br/>
-          <a href="https://app.insomnia.rest/">
-            <img src="https://img.shields.io/badge/insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white"/>
+          <a href="https://www.usebruno.com/">
+            <img src="https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black"/>
           <a/>
           <a href="https://aws.amazon.com/">  
             <img src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=flat-square&logo=AWS&logoColor=white"/>
