@@ -7,16 +7,16 @@
 
 <div align="center">
   <a href="https://github.com/Igorryan44">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/igorr.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:igorryanmendesalves@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/igor-ryan-mendes-alves">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
 
@@ -41,29 +41,29 @@
       <td valign="top" width="100%">
         <h3>🛠️ Tech Stack</h3>
           <a href="https://www.java.com/pt-BR/">
-            <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=openjdk&logoColor=black"/>  
+            <img src="https://img.shields.io/badge/Java-FFA500?logo=openjdk&logoColor=black"/>  
           <a/>
           <a href="https://spring.io/projects/spring-boot">
-            <img src="https://img.shields.io/badge/Spring-228B22?style=flat-square&logo=springboot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring-228B22?logo=springboot&logoColor=white"/>
           <a/>
         <br/>
           <a href="https://www.pgadmin.org/">
-            <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white"/>
           <a/>
           <a href="https://git-scm.com/">
-            <img src="https://img.shields.io/badge/Git-ff8300?style=flat-square&logo=git&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Git-ff8300?logo=git&logoColor=black"/>
           <a/>
         <br/>
           <a href="https://www.usebruno.com/">
             <img src="https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black"/>
           <a/>
           <a href="https://aws.amazon.com/">  
-            <img src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=flat-square&logo=AWS&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Amazon AWS-f7f7f7?logo=AWS&logoColor=white"/>
         <br/>  
           <a href="https://www.python.org/doc/">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
           <a/>
-            <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white"/>
           <a/>  
       </td>
     </tr>
